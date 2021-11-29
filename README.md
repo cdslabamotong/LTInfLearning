@@ -11,6 +11,7 @@ Learnability of Influence Function in Competitive Threshold Diffusion Model
 - sklearn
 - cplex
 - docplex
+- networkx
 
 ## Data
 
