@@ -18,6 +18,6 @@ The two folders 'full_observation', and 'partial_observation' contains code for 
   - Linear regression model
 - partial_observation
   - Backpropagation-based algorithm
- 
-</p>![nn](https://user-images.githubusercontent.com/48974973/143944274-e455e3b0-53c2-4cee-840f-70bd35637aa1.png)
+
+![nn](https://user-images.githubusercontent.com/48974973/143944274-e455e3b0-53c2-4cee-840f-70bd35637aa1.png)
 
