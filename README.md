@@ -4,6 +4,14 @@ Code for LTInfLearning
 
 Learnability of Influence Function in Competitive Threshold Diffusion Model
 
+## Dependencies
+- python >= 3.6
+- Numpy
+- PyTorch >= 1.7
+- sklearn
+- cplex
+- docplex
+
 ## Data
 
 The folder 'data' contains the synthetic and real datasets.
