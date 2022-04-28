@@ -17,7 +17,7 @@ Learnability of Influence Function in Competitive Threshold Diffusion Model
 
 The folder 'data' contains the synthetic and real datasets.
 - Synthetic_data: Kronecker graph edge list file.
-- real_data: follower network edgelist file derived from Gab network.
+- real_data: retweet network edgelist file derived from Twitter.
 
 ## Code
 The two folders 'full_observation', and 'partial_observation' contains code for different learning algorithm.
