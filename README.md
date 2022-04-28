@@ -1,8 +1,8 @@
 # LTInfLearning
 
-Code for LTInfLearning
+Code for paper
 
-Learnability of Influence Function in Competitive Threshold Diffusion Model
+Learnability of Competitive Threshold Models
 
 ## Dependencies
 - python >= 3.6
